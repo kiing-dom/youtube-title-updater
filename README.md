@@ -1,6 +1,6 @@
 # YouTube Title Updater
 
-This project provides a script to mass edit YouTube video titles using the YouTube Data API. It's designed to update video titles from "Road to Employment" to "Road to SWE".
+This project provides a script to mass edit YouTube video titles using the YouTube Data API. It is designed to take a phrase and replace that phrase with a new phrase across all videos containing the phrase.
 
 ## Setup
 
